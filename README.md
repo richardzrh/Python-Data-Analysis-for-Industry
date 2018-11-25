@@ -1,7 +1,7 @@
-# Python-Data-Analysis-for-Industry
-Python, Data Analysis, Machine Learning, Application, Manufacturing Industries
+# Python-Data-Analysis-for-Industry  
+Python, Data Analysis, Machine Learning, Application, Manufacturing Industries  
 
-I develop this course to develop analytical capability for people working in a digitalized manufacturing environment. 
+I develop this course to develop analytical capability for people working in a digitalized manufacturing environment.   
 The main structure of this material:
   -Python language foundation
       * data structure and operator
